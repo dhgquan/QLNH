@@ -1,0 +1,12 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 C\'e1c ch\uc0\u7913 c n\u259 ng ch\'ednh\
+1. B\'e1n h\'e0ng xu\uc0\u7845 t t\u7893 ng ti\u7873 n\
+2. Nh\uc0\u7853 p h\'e0ng\
+3. Xem danh s\'e1ch m\'f3n \uc0\u259 n\
+4. Th\uc0\u7889 ng k\'ea nh\u7919 ng nh\'e2n vi\'ean b\'e1n nhi\u7873 u nh\u7845 t}
